@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\bin\Debug\netcoreapp1.1\Treinamento_WebApi.deps.json
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\bin\Debug\netcoreapp1.1\Treinamento_WebApi.runtimeconfig.json
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\bin\Debug\netcoreapp1.1\Treinamento_WebApi.runtimeconfig.dev.json
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\bin\Debug\netcoreapp1.1\Treinamento_WebApi.dll
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\bin\Debug\netcoreapp1.1\Treinamento_WebApi.pdb
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\obj\Debug\netcoreapp1.1\Treinamento_WebApi.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\obj\Debug\netcoreapp1.1\Treinamento_WebApi.AssemblyInfo.cs
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\obj\Debug\netcoreapp1.1\Treinamento_WebApi.dll
+c:\users\aluno\documents\visual studio 2017\Projects\Treinamento_WebApi\Treinamento_WebApi\obj\Debug\netcoreapp1.1\Treinamento_WebApi.pdb
